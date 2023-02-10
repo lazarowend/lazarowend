@@ -12,11 +12,13 @@ No curso técnico estei Redes, HTML, CSS, Bootstrap-5, estou estudando atualment
 
 # 📧 Contato:
 
+
 <a href="mailto:lazaro.bann@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a />
 <a href="https://www.linkedin.com/in/l%C3%A1zaro-wendel-600987239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>< a/>
 <a href="https://wa.me/+5538998497255"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the -badge&logo=whatsapp&logoColor=white"/><a/>
 
 ## 🌐 Redes Sociais:
+  
 <a href="https://www.instagram.com/lazaro.wrld/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/ ><a/>
 
 # 💻 Pilha de tecnologia:
