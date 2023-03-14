@@ -1,5 +1,5 @@
 # 💫 About Me:
-Apaixonado por tecnologia desde sempre!, iniciei os estudos no mundo de programação no inicio de 2022 com um curso técnico de Desenvolvimento de Sistemas pela Unimontes<br><br>Gosto muito de música, séries e filmes, tambem sou apaixonado por hardware e pelo mundo de games.<br><br>Atualmente:<br>    Faço Curso técnico de Desenvolvimento de Sistemas.<br>    Faço Curso de Desenvolvimento Full Stack na Danki Code.<br><br>Estudando atualmente:<br>Javascript, Python, POO em JAVA, mySQL.
+Apaixonado por tecnologia desde sempre!, iniciei os estudos no mundo de programação no inicio de 2022 com o Professor Guanabara.<br><br>Gosto muito de música, séries e filmes, tambem sou apaixonado por hardware e pelo mundo de games.<br><br>Atualmente:<br>    Faço Curso técnico de Desenvolvimento de Sistemas presencial na Unimontes.<br>    Faço Curso de Desenvolvimento Full Stack ead na Danki Code.<br><br>Estudando atualmente:<br>Javascript, Python, POO em JAVA, mySQL.
 
 
 ## 🌐 Socials:
