@@ -1,6 +1,6 @@
 
 <img align="center" style="margin-bottom:40px" width=100% src="https://github.com/lazarowend/lazarowend/assets/109289732/1d066a82-ec59-4c1f-8be4-530429e280e4" />
-<p align="center">Eu amo games e tecnologia, e sou Técnico em Desenvolvimento de Sistemas<br><br>
+<p align="center">Eu amo games, tecnologia, e sou Técnico em Desenvolvimento de Sistemas<br><br>
 </p>
 
 
